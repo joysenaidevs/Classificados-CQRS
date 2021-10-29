@@ -1,0 +1,45 @@
+C:\Users\Joyce\Documents\Classificados Senai\classificados\classificados.Dominio\bin\Debug\net5.0\classificados.Dominio.deps.json
+C:\Users\Joyce\Documents\Classificados Senai\classificados\classificados.Dominio\bin\Debug\net5.0\classificados.Dominio.dll
+C:\Users\Joyce\Documents\Classificados Senai\classificados\classificados.Dominio\bin\Debug\net5.0\ref\classificados.Dominio.dll
+C:\Users\Joyce\Documents\Classificados Senai\classificados\classificados.Dominio\bin\Debug\net5.0\classificados.Dominio.pdb
+C:\Users\Joyce\Documents\Classificados Senai\classificados\classificados.Dominio\obj\Debug\net5.0\classificados.Dominio.csproj.AssemblyReference.cache
+C:\Users\Joyce\Documents\Classificados Senai\classificados\classificados.Dominio\obj\Debug\net5.0\classificados.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joyce\Documents\Classificados Senai\classificados\classificados.Dominio\obj\Debug\net5.0\classificados.Dominio.AssemblyInfoInputs.cache
+C:\Users\Joyce\Documents\Classificados Senai\classificados\classificados.Dominio\obj\Debug\net5.0\classificados.Dominio.AssemblyInfo.cs
+C:\Users\Joyce\Documents\Classificados Senai\classificados\classificados.Dominio\obj\Debug\net5.0\classificados.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Joyce\Documents\Classificados Senai\classificados\classificados.Dominio\obj\Debug\net5.0\classificados.Dominio.dll
+C:\Users\Joyce\Documents\Classificados Senai\classificados\classificados.Dominio\obj\Debug\net5.0\ref\classificados.Dominio.dll
+C:\Users\Joyce\Documents\Classificados Senai\classificados\classificados.Dominio\obj\Debug\net5.0\classificados.Dominio.pdb
+C:\Users\Joyce\Documents\Classificados Senai\classificados\classificados.Dominio\bin\Debug\net5.0\classificados.Comum.dll
+C:\Users\Joyce\Documents\Classificados Senai\classificados\classificados.Dominio\bin\Debug\net5.0\classificados.Comum.pdb
+C:\Users\Joyce\Documents\Classificados Senai\classificados\classificados.Dominio\obj\Debug\net5.0\classificados.Dominio.csproj.CopyComplete
+C:\Users\Joyce\Desktop\Classificados-Grupo3\Beck-End\classificados\classificados.Dominio\bin\Debug\net5.0\classificados.Dominio.deps.json
+C:\Users\Joyce\Desktop\Classificados-Grupo3\Beck-End\classificados\classificados.Dominio\bin\Debug\net5.0\classificados.Dominio.dll
+C:\Users\Joyce\Desktop\Classificados-Grupo3\Beck-End\classificados\classificados.Dominio\bin\Debug\net5.0\ref\classificados.Dominio.dll
+C:\Users\Joyce\Desktop\Classificados-Grupo3\Beck-End\classificados\classificados.Dominio\bin\Debug\net5.0\classificados.Dominio.pdb
+C:\Users\Joyce\Desktop\Classificados-Grupo3\Beck-End\classificados\classificados.Dominio\bin\Debug\net5.0\classificados.Comum.dll
+C:\Users\Joyce\Desktop\Classificados-Grupo3\Beck-End\classificados\classificados.Dominio\bin\Debug\net5.0\classificados.Comum.pdb
+C:\Users\Joyce\Desktop\Classificados-Grupo3\Beck-End\classificados\classificados.Dominio\obj\Debug\net5.0\classificados.Dominio.csproj.AssemblyReference.cache
+C:\Users\Joyce\Desktop\Classificados-Grupo3\Beck-End\classificados\classificados.Dominio\obj\Debug\net5.0\classificados.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joyce\Desktop\Classificados-Grupo3\Beck-End\classificados\classificados.Dominio\obj\Debug\net5.0\classificados.Dominio.AssemblyInfoInputs.cache
+C:\Users\Joyce\Desktop\Classificados-Grupo3\Beck-End\classificados\classificados.Dominio\obj\Debug\net5.0\classificados.Dominio.AssemblyInfo.cs
+C:\Users\Joyce\Desktop\Classificados-Grupo3\Beck-End\classificados\classificados.Dominio\obj\Debug\net5.0\classificados.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Joyce\Desktop\Classificados-Grupo3\Beck-End\classificados\classificados.Dominio\obj\Debug\net5.0\classificados.Dominio.csproj.CopyComplete
+C:\Users\Joyce\Desktop\Classificados-Grupo3\Beck-End\classificados\classificados.Dominio\obj\Debug\net5.0\classificados.Dominio.dll
+C:\Users\Joyce\Desktop\Classificados-Grupo3\Beck-End\classificados\classificados.Dominio\obj\Debug\net5.0\ref\classificados.Dominio.dll
+C:\Users\Joyce\Desktop\Classificados-Grupo3\Beck-End\classificados\classificados.Dominio\obj\Debug\net5.0\classificados.Dominio.pdb
+C:\Users\DEV\Desktop\Classificados-Grupo3\Beck-End\classificados\classificados.Dominio\bin\Debug\net5.0\classificados.Dominio.deps.json
+C:\Users\DEV\Desktop\Classificados-Grupo3\Beck-End\classificados\classificados.Dominio\bin\Debug\net5.0\classificados.Dominio.dll
+C:\Users\DEV\Desktop\Classificados-Grupo3\Beck-End\classificados\classificados.Dominio\bin\Debug\net5.0\ref\classificados.Dominio.dll
+C:\Users\DEV\Desktop\Classificados-Grupo3\Beck-End\classificados\classificados.Dominio\bin\Debug\net5.0\classificados.Dominio.pdb
+C:\Users\DEV\Desktop\Classificados-Grupo3\Beck-End\classificados\classificados.Dominio\bin\Debug\net5.0\classificados.Comum.dll
+C:\Users\DEV\Desktop\Classificados-Grupo3\Beck-End\classificados\classificados.Dominio\bin\Debug\net5.0\classificados.Comum.pdb
+C:\Users\DEV\Desktop\Classificados-Grupo3\Beck-End\classificados\classificados.Dominio\obj\Debug\net5.0\classificados.Dominio.csproj.AssemblyReference.cache
+C:\Users\DEV\Desktop\Classificados-Grupo3\Beck-End\classificados\classificados.Dominio\obj\Debug\net5.0\classificados.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\Desktop\Classificados-Grupo3\Beck-End\classificados\classificados.Dominio\obj\Debug\net5.0\classificados.Dominio.AssemblyInfoInputs.cache
+C:\Users\DEV\Desktop\Classificados-Grupo3\Beck-End\classificados\classificados.Dominio\obj\Debug\net5.0\classificados.Dominio.AssemblyInfo.cs
+C:\Users\DEV\Desktop\Classificados-Grupo3\Beck-End\classificados\classificados.Dominio\obj\Debug\net5.0\classificados.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Desktop\Classificados-Grupo3\Beck-End\classificados\classificados.Dominio\obj\Debug\net5.0\classificados.Dominio.csproj.CopyComplete
+C:\Users\DEV\Desktop\Classificados-Grupo3\Beck-End\classificados\classificados.Dominio\obj\Debug\net5.0\classificados.Dominio.dll
+C:\Users\DEV\Desktop\Classificados-Grupo3\Beck-End\classificados\classificados.Dominio\obj\Debug\net5.0\ref\classificados.Dominio.dll
+C:\Users\DEV\Desktop\Classificados-Grupo3\Beck-End\classificados\classificados.Dominio\obj\Debug\net5.0\classificados.Dominio.pdb

@@ -1,0 +1,32 @@
+
+.btn-primary{
+    background-color: #7F90C6 !important;
+    border: 1px solid #7F90C6 !important;
+    width: 200px !important;
+}
+
+.btn-primary:hover{
+    background-color: white !important;
+    color: #7F90C6 !important;
+}
+
+.card{
+    margin: 20px 20px 0px !important;
+}
+
+.card:hover{
+    cursor: pointer !important;
+    border: 2px solid rgb(167, 167, 167) !important;
+}
+
+.mb-3{
+    display: flex !important;
+}
+
+#form{
+    margin-top: 20px !important;
+    height: 5vh;
+}
+
+
+

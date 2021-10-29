@@ -1,0 +1,21 @@
+.me-auto{
+    margin-left: 25vw;
+}
+
+.nav-link{
+    margin-right: 45px;
+}
+
+.nav-link:hover{
+    color: #8D97B8 !important;
+}
+
+.navbar-brand{
+    color: #6F7489 !important;
+    letter-spacing: 5px !important;
+    font-weight: 600 !important;
+}
+
+.navbar{
+    box-shadow: 5px 2px 5px #ccc;
+}

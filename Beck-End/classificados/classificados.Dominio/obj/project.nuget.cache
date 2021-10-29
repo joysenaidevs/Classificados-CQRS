@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kHGU9EeHJJfsA7gpq/AX9bV26bEWHKo4DbeVpAYODUcGHozq9OY9rIR8+hlt5JKSJifGR/I5DsR3mjIJdnKWjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joyce\\Desktop\\Classificados-Grupo3\\Beck-End\\classificados\\classificados.Dominio\\classificados.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joyce\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512",
+    "C:\\Users\\Joyce\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
